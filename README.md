@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+```
+package hamza
+
+import fmt
+
+func greet(){
+    fmt.Println("Welcome!! 👋")
+}
+```
 <!--
 **HamzaAnis/hamzaanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
