@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Anis</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate backend developer from Pakistan</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=hamzaanis alt=hamzaanis/> </p>
 
 ```
