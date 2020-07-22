@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
+
 <h1 align="center">Hi there, I'm <a href="https://hamzaanis.github.io"  target="_blank">Hamza!</a> 👋</h1>
     
 <h3 align="center">A passionate backend developer from Pakistan</h3>
