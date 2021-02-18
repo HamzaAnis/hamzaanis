@@ -20,7 +20,7 @@ func greet(){
 <p align="center"> 
 <a href=https://stackoverflow.com/users/4544967/hamza-anis target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="hamzaanis" height="25" width="25" /></a>
 <a href=https://dev.to/hamzaanis target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="hamzaanis" height="25" width="25" /></a>
-<a href=https://twitter.com/hamzaanis9514 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="hamzaanis9514" height="25" width="25" /></a>
+<a href=https://twitter.com/hamzaanis_dev target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="hamzaanis9514" height="25" width="25" /></a>
 <a href=https://fb.com/hamzaanis2 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="hamzaanis2" height="25" width="25" /></a>
 <a href=https://www.instagram.com/kazi_hamza_anis/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="hamzaanis" height="25" width="25" /></a>
 <a href=https://linkedin.com/in/https://www.linkedin.com/in/hamzaanis9514/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="https://www.linkedin.com/in/hamzaanis9514/" height="25" width="25" /></a>    
