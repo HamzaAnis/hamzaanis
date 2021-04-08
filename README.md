@@ -5,7 +5,7 @@
 <h3 align="center">A passionate backend developer from Pakistan</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=hamzaanis alt=hamzaanis/> </p>
 
-```
+```go
 package hamza
 
 import fmt
