@@ -10,7 +10,7 @@ package hamza
 
 import fmt
 
-func greet(){
+func Greet(){
     fmt.Println("Welcome!! 👋")
 }
 ```
